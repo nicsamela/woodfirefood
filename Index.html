@@ -7,5 +7,63 @@
 <body>
 <p> hello <p> 
 	<img src="lohud.png" alt="Paris" class="center">
+	
+	<section class="grid-logos">
+  <a href="" class="grid-logos__item">
+    <img src="http://grodennetwork.org/about/images/Gilbane_Logo_Red.jpg" alt="Gilbane" />
+  </a>
+  <a href="" class="grid-logos__item">
+    <img src="http://cannon.7pwiu5hqygigvu1w3lmtyxkscr5rqnxrk5c1hjll7ke.netdna-cdn.com/assets/logo_home.png" alt="Gilbane" />
+  </a>
+  <a href="" class="grid-logos__item">
+    <img src="https://pbs.twimg.com/profile_images/2931909291/54742f9a6ba5d525e91eb49fe2f031aa_400x400.png" alt="Gilbane" />
+  </a>
+  <a href="" class="grid-logos__item">
+    <img src="https://www.mc-mc.com/ASSETS/WEB_THEMES/MCNAUGHTON_MCKAY/images/logo1.png" alt="Gilbane" />
+  </a>
+</section>
+	
+<style> 
+	.grid-logos {
+  display: flex;
+  flex-wrap: wrap;
+  
+  &__item {
+    align-self: center;
+    border: solid 1px #ddd;
+    height: 150px;
+    flex-basis: 100%;
+    text-align: center;
+    
+    @media all and (min-width: 450px) {
+      flex-basis: 50%;
+    }
+    
+    @media all and (min-width: 900px) {
+      flex-basis: 25%;
+    }    
+  }
+  
+  img {
+    max-height: 100px;
+    max-width: 200px;
+    position: relative;
+      top: 50%;
+    transform: translateY(-50%);
+  }
+}
+
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+	
+	</style>
+	
+	
+	
 </body>
 </html>
