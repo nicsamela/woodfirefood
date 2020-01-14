@@ -1,0 +1,19 @@
+<div class="content">
+  <img src="https://cdn.shopify.com/s/files/1/0279/0473/7412/files/Screenshot_2020-01-13_14.17.48.png?v=1578943320" style="width:20% ;padding-right: 50px; box-sizing:content-box; border: transparent 20px;">
+  <img src="https://cdn.shopify.com/s/files/1/0279/0473/7412/files/Screenshot_2020-01-13_14.18.30.png?v=1578943321" style="width:20% ;padding-right: 50px; padding left: 50px; box-sizing:content-box; border: transparent 40px;">
+
+<img src="https://cdn.shopify.com/s/files/1/0279/0473/7412/files/Screenshot_2020-01-13_14.20.45.png?v=1578943322" style="width:20%; padding-right: 50px; padding left: 50px; box-sizing:content-box; border: transparent 40px;">
+  
+
+<a href="https://ediblehudsonvalley.ediblecommunities.com/weddings/road-warriors">
+<img src="https://cdn.shopify.com/s/files/1/0279/0473/7412/files/Screenshot_2020-01-13_14.19.10.png?v=1578943321" style="width:60% ;padding-right: 50px; padding left: 50px; box-sizing:content-box; border: transparent 20px;">
+</a></div><a href="default.asp">
+
+<style>
+.content {
+  display: flex;
+  flex-flow: row nowrap;
+  align-items: center;
+  padding: 15px;
+}
+</style></a>
